@@ -1,3 +1,19 @@
+## Screen Shot
+
+# Task lists
+![alt text](https://github.com/rebiichokriJS/Simple-application-in-react-JS/blob/master/pictures/ToDo%20List.png)
+
+# New task
+![alt text](https://github.com/rebiichokriJS/Simple-application-in-react-JS/blob/master/pictures/Add%20Task.png)
+
+# Selected task lists
+![alt text](https://github.com/rebiichokriJS/Simple-application-in-react-JS/blob/master/pictures/ToDo.png)
+
+# VS Code
+![alt text](https://github.com/rebiichokriJS/Simple-application-in-react-JS/blob/master/pictures/vscode.png)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
